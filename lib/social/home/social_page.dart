@@ -43,7 +43,6 @@ class _SocialPageState extends State<SocialPage> {
                         },
                       );
                     }
-
                     return const Center(
                       child: Text('No items found.'),
                     );
